@@ -69,7 +69,8 @@
 ### 🐍 Snake Game dos meus commits  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DanielSilva-dss/DanielSilva-dss/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  [<img src="https://raw.githubusercontent.com/DanielSilva-dss/DanielSilva-dss/output/github-contribution-grid-snake.svg" alt="Snake animation"/>](https://raw.githubusercontent.com/DanielSilva-dss/DanielSilva-dss/output/github-contribution-grid-snake.svg
+)
 </p>
 
 ---
