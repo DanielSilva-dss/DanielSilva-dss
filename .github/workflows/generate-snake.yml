@@ -1,0 +1,48 @@
+name: Generate Snake
+
+on:
+  schedule:                    # roda a cada 12 horas
+    - cron: '0 */12 * * *'
+  workflow_dispatch:           # permite rodar manualmente
+
+# garante permissão de escrita para o GITHUB_TOKEN (crítico para push)
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Generate and publish snake
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate snake SVG (svg-only, mais rápido)
+        id: snk
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: DanielSilva-dss
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Debug - list dist files and preview svg header
+        run: |
+          echo "=== DIST CONTENTS ==="
+          ls -la dist || true
+          echo "=== PREVIEW (first 20 lines) ==="
+          head -n 20 dist/github-contribution-grid-snake.svg || true
+
+      - name: Deploy dist to 'output' branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update snake svg"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
