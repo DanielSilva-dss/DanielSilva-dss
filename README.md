@@ -5,14 +5,13 @@
 # 👋 Olá, Eu sou Daniel Silva  
 
 🚀 Estudante de ADS apaixonado por tecnologia. Focado em Java + Spring Boot e explorando Cloud (AWS).  
-Busco me desenvolver como Back-end Júnior, sempre aprendendo e criando novos projetos.
+Busco me desenvolver como Back-end Júnior, sempre aprendendo e criando novos projetos.  
 
----
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Daniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Daniel-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -27,9 +26,19 @@ Busco me desenvolver como Back-end Júnior, sempre aprendendo e criando novos pr
 
 ---
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silva-815909224/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsouzadev10@gmail.com)  
+---
+
 ### 📌 Projeto em Destaque  
 - 🎮 👥 [API de Catalogar Jogos e Clientes](https://github.com/DanielSilva-dss/api-de-jogos)  
-  _Aplicação de uma API Spring Boot com testes no Postman e banco em memória H2_  
+  _Aplicação de uma API Spring Boot com testes no Postman e banco em memória H2._
+
+- [Ciclo Completo de Exemplo Prático de DevOps](https://github.com/DanielSilva-dss/uninter-devops-vai-de-retornavel)  
+  _Um Projeto proposto na UNINTER onde fizemos em Grupo de Colaboração de 10 membros um ciclo Completo do DevOps._
+
+- [Jogo do Número Secreto](https://github.com/DanielSilva-dss/jogo-secreto)  
+  _Website em JavaScript onde o Jogador deve Acertar o número entre 1 e 100._
 
 ---
 
@@ -52,13 +61,6 @@ Busco me desenvolver como Back-end Júnior, sempre aprendendo e criando novos pr
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielSilva-dss&theme=tokyonight" alt="GitHub Streak"/>  
 
 </div>  
-
----
-
-### 📫 Onde me encontrar  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silva-815909224/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsouzadev10@gmail.com)  
 
 ---
 
