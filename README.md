@@ -33,6 +33,9 @@ sempre aprendendo e criando novos projetos.
 - 🎮 👥 [API de Catalogar Jogos e Clientes](https://github.com/DanielSilva-dss/api-de-jogos)  
   _Aplicação de uma API Spring Boot com testes no Postman e banco em memória H2._
 
+- 📢💬 [Desenvolvendo Comunidade: Um Sistema Web para a Associação de Moradores](https://github.com/DanielSilva-dss/Website-visconde)  
+  _Este projeto é um sistema web completo desenvolvido para a comunicação e gestão de informações da Associação de Moradores_  
+
 - ⚙️ ♾️ [Ciclo Completo de Exemplo Prático de DevOps](https://github.com/DanielSilva-dss/uninter-devops-vai-de-retornavel)  
   _Um Projeto proposto na UNINTER onde fizemos em Grupo de Colaboração de 10 membros um ciclo Completo do DevOps._
 
